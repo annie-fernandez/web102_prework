@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s1.ezgif.com/tmp/ezgif-1-72d0fdebe5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -33,6 +34,9 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
+
+I could not make the gift show but you can open the link to it :/
+https://s1.ezgif.com/tmp/ezgif-1-72d0fdebe5.gif
 
 Describe any challenges encountered while building the app.
 
