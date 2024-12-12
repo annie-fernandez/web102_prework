@@ -21,20 +21,15 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://s1.ezgif.com/tmp/ezgif-1-72d0fdebe5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![GIF](https://media.giphy.com/media/t4zBOFST76x7zzj4sQ/giphy.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with exgif.com
+GIF created with GIPHY
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-I could not make the gift show but you can open the link to it :/
-https://s1.ezgif.com/tmp/ezgif-1-72d0fdebe5.gif
 
 
 ## License
